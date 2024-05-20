@@ -15,7 +15,7 @@ Build a user interface (UI) for easy interaction with the application.
 Ensure that the generated invoices can be uploaded to a database for storage and retrieval.
 Scope: The project covers the following key areas:
 
-Setting up the development environment.
+# Setting up the development environment.
 
 Writing Python code for invoice generation.
 Developing a UI for the application using a web framework.
